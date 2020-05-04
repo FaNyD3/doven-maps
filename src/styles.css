@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+html,
+body {
+    margin: 0px;
+}
+
+.main-container {
+    /* separacion de el top de la pantalla hacía abajo */
+    margin-top: 5px;
+    /* separacion del lado izquierdo de la pantalla para los elementos adentro del div */
+    padding: 10px;
+}
